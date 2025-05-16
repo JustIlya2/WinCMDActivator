@@ -1,4 +1,7 @@
 # WinCMDActivator (ENG)
+
+Warning! This project is archived now. If you want to use program, use github.com/JustIlya2/WinCMDActivator_Remade
+
 Windows Activator Using СMD
 
 Hi! I am JustIlya2!
@@ -15,6 +18,8 @@ And Now... Windows Activated!
 
 # WinCMDActivator (RUS)
 Активатор Windows с помощью CMD
+
+Предупреждаю! этот репозиторий арихивный! Если вы хотите использовать программу, переходите на github.com/JustIlya2/WinCMDActivator_Remade
 
 Привет! Я JustIlya2!
 
